@@ -1,3 +1,5 @@
+_The intent of this fork of grosser/parallel is to make it work in the Windows environment._
+
 Run any code in parallel Processes(> use all CPUs) or Threads(> speedup blocking operations).<br/>
 Best suited for map-reduce or e.g. parallel downloads/uploads.
 
